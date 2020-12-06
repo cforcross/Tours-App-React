@@ -1,2 +1,2 @@
 ## React Projects Starter APP
-![GitHub Logo](/images/tours ap.PNG)
+![GitHub Logo](/tours ap.PNG)
